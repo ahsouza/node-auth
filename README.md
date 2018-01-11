@@ -11,7 +11,7 @@ If you use https, use this instead
 
 `git clone https://github.com/ahsouza/node-auth.git`
 
-Configures the ID_CLIENT and KEY_SECRET of the user account.
+Configures the ID_CLIENT and KEY_SECRET of the user account in config/auth
 
 `  'clientID'    : 'your-secret-clientID-here', // seu App ID`
 
