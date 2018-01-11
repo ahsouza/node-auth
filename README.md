@@ -13,8 +13,9 @@ If you use https, use this instead
 
 Configures the ID_CLIENT and KEY_SECRET of the user account.
 
-`  'clientID'    : 'your-secret-clientID-here', // seu App ID
-   'clientSecret'  : 'your-client-secret-here', // seu App Secret`
+`  'clientID'    : 'your-secret-clientID-here', // seu App ID`
+
+  `'clientSecret'  : 'your-client-secret-here', // seu App Secret`
 
 Determines the location of the database in the config / database.js file
 
