@@ -1,0 +1,29 @@
+<!-- views/index.ejs -->
+<!doctype html>
+<html>
+<head>
+    <title>Node Autenticação</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    <style>
+        body        { padding-top:80px; }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <div class="jumbotron text-center">
+        <h1><span class="fa fa-lock"></span> Node Auth</h1>
+
+        <p>Entrar ou Registrar com:</p>
+
+        <a href="/login" class="btn btn-default"><span class="fa fa-user"></span> Entrar local</a>
+        <a href="/signup" class="btn btn-default"><span class="fa fa-user"></span> Inscrição local</a>
+        <a href="/auth/facebook" class="btn btn-primary"><span class="fa fa-facebook"></span>Entrar pelo Facebook</a>
+        <a href="/auth/twitter" class="btn btn-info"><span class="fa fa-twitter"></span>Entrar pelo Twitter</a>
+        <a href="/auth/google" class="btn btn-danger"><span class="fa fa-google-plus"></span>Entrar pelo Google+</a>
+    </div>
+
+</div>
+</body>
+</html>
