@@ -1,5 +1,5 @@
 {
-  "name": "auth-google",
+  "name": "Autentication with Node.Js & Passport.Js",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "google-apis",
     "node"
   ],
-  "author": "ahs-abstract-in-scotch.io",
+  "author": "@ahsouza <annibalhsouza@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "latest",
