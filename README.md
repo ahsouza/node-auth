@@ -1,7 +1,7 @@
 # node-auth
 Authentication using passport with Node.js to Google+ APIs, Facebook, Twitter. 
 
-
+![alt text](https://scotch-res.cloudinary.com/image/upload/w_1050,q_auto:good,f_auto/media/https://scotch.io/wp-content/uploads/2014/11/nodejs-token-based-authentication.png)
 
 Clone the project repository by running the command below if you use SSH
 
