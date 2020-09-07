@@ -47,7 +47,6 @@ In modern web applications, authentication can take a variety of forms.
 
 Authentication to Google+ APIs, Facebook, Twitter and more.
 
-![alt text](https://res.cloudinary.com/dfrrmx56o/image/upload/v1599511688/ahscode/repositorios_github/images.png)
 
 
 Clone the project repository by running the command below if you use SSH
